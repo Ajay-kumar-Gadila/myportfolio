@@ -1,0 +1,20 @@
+/* .container {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 10px;
+  }
+  
+  .item {
+    background-color: lightcoral;
+    text-align: center;
+    padding: 20px;
+    flex: 5 5 150px;  
+  }
+   */
+
+   .container {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    height: 100vh;
+   }
